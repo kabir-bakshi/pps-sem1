@@ -1,4 +1,4 @@
-# Semester 1 Programming for Problem Solving.
+# Semester 1: Programming for Problem Solving
 
 ## 12 Questions for Pracrical File
 1. Write a C program that accepts the marks of 5 subjects and calculates the total marks and percentage obatained by the student.

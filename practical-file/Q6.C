@@ -20,7 +20,7 @@ void main() {
 	if(nums[i] > max) max = nums[i];
 	if(nums[i] < min) min = nums[i];
     }
-    printf("\nThe max and min values are %d and %d respectfully.", max, min);
+    printf("\nThe maximum and minimum values are %d and %d respectfully.", max, min);
 
     getch();
 }
